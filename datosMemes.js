@@ -1,5 +1,5 @@
 // LABORATORIO #2
-// Richard Padilla - Ivan Castillo - Ariel Sanchez
+// Ariel Sanchez
 
 const obtenerMemes = async() => {
     
